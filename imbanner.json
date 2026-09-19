@@ -2,27 +2,27 @@
   "cadenas": [
     {
       "nombre": "Cadena 1",
-      "iman": true,
+      "iman": "https://i.pinimg.com/736x/31/05/b4/3105b4dd4d7382ec1c3d3630a0b44023.jpg",
       "url": "https://ejemplo.com/cadena1"
     },
     {
       "nombre": "Cadena 2",
-      "iman": true,
+      "iman": "https://ejemplo.com/imagenes/iman2.jpg",
       "url": "https://ejemplo.com/cadena2"
     },
     {
       "nombre": "Cadena 3",
-      "iman": true,
+      "iman": "https://ejemplo.com/imagenes/iman3.jpg",
       "url": "https://ejemplo.com/cadena3"
     },
     {
       "nombre": "Cadena 4",
-      "iman": true,
+      "iman": "https://ejemplo.com/imagenes/iman4.jpg",
       "url": "https://ejemplo.com/cadena4"
     },
     {
       "nombre": "Cadena 5",
-      "iman": true,
+      "iman": "https://ejemplo.com/imagenes/iman5.jpg",
       "url": "https://ejemplo.com/cadena5"
     }
   ]
