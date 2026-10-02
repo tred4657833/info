@@ -1,0 +1,20 @@
+{
+  "name": "likuos",
+  "versions": [
+    {
+      "name": "nadu",
+      "v": "1.0.0",
+      "url": "https://github.com/usuario/repo/releases/download/v1.0.0/midistro-1.0.0.iso"
+    },
+    {
+      "name": "MiDistro",
+      "v": "1.1.0",
+      "url": "https://github.com/usuario/repo/releases/download/v1.1.0/midistro-1.1.0.iso"
+    },
+    {
+      "name": "MiDistro",
+      "v": "2.0.0",
+      "url": "https://github.com/usuario/repo/releases/download/v2.0.0/midistro-2.0.0.iso"
+    }
+  ]
+}
