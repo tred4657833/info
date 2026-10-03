@@ -1,11 +1,11 @@
 {
   "versions": [
     {
-      "name": "MiDistro",
+      "name": "Tawazu",
       "v": "1.0.0",
-      "title": "MiDistro 1.0",
-      "description": "Primera versión estable de MiDistro.",
-      "banner": "https://raw.githubusercontent.com/usuario/repo/main/banners/1.0.0.png",
+      "title": "Tawazu LikuOS",
+      "description": "drika software type office whith kernel linux 7.0.3.",
+      "banner": "https://i.pinimg.com/1200x/1d/ad/72/1dad72786ead0a37b93dde119cf58b86.jpg",
       "url": "https://github.com/usuario/repo/releases/download/v1.0.0/midistro-1.0.0.iso"
     },
     {
